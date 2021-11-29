@@ -1,0 +1,13 @@
+C:\Users\golya\source\repos\Praktika4\Praktika4\bin\Debug\Praktika4.exe.config
+C:\Users\golya\source\repos\Praktika4\Praktika4\bin\Debug\Praktika4.exe
+C:\Users\golya\source\repos\Praktika4\Praktika4\bin\Debug\Praktika4.pdb
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.csproj.AssemblyReference.cache
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.Form1.resources
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.Form2.resources
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.Form3.resources
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.Properties.Resources.resources
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.csproj.GenerateResource.cache
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.exe
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.pdb
+C:\Users\golya\source\repos\Praktika4\Praktika4\obj\Debug\Praktika4.Form4.resources
